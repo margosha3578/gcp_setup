@@ -9,3 +9,4 @@
 terraform.tfvars
 terraform.tfvars.json
 crash.log
+.terraform
