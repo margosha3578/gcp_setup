@@ -1,0 +1,11 @@
+.idea
+.venv
+
+# Terraform temporary and state files
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl.backup
+terraform.tfvars
+terraform.tfvars.json
+crash.log
