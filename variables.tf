@@ -32,4 +32,9 @@ variable "db_user_password" {
   sensitive   = true
 }
 
+variable "credentials" {
+  type = string
+  description = "Credentials for GCP"
+}
+
 
